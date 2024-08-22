@@ -1,6 +1,6 @@
 # Child Developmental Stages by Rudolf Steiner
 
-### Term 3 - July 24: Notes from the  Lecture by Bernadette White
+Term 3 - July 24: Notes from the  Lecture by Bernadette White
 
 ## Overview of Steiner Curriculum
 
@@ -12,68 +12,92 @@
 
 ## Child Development and Incarnation
 
-- **Incarnation Process:**
+### Incarnation Process
   - Child development is viewed as the process of the soul and spirit (referred to as the "astral" and "ego" in Steiner's terminology) fully incarnating into the physical body, which includes both the etheric and physical aspects.
   - The physical body is considered a genetic vessel, and the process of these higher bodies integrating with it takes approximately 21 years.
   - This unfolding occurs in rhythmic cycles.
-
-## First Phase of Development (Birth to Age 7)
-
-- **Completion of the First Phase:**
-  - The first major phase of development concludes around the age of 7, marked by the change of teeth.
-  - This physical milestone is seen as an outer indicator of the completion of this stage.
   - Children come into this world from the spiritual realm, carrying experiences and intentions for their coming life.
   - These intentions include perfecting aspects of themselves and aligning with other spiritual beings.
   - As educators and parents, we must honor and respect the spiritual journey of the child and support the unfolding of these intentions.
 
-- **Early Connection with the Mother:**
+<hr>
+
+## First Phase of Development: (0 to Age 7)
+
+ 
+#### Newborn: 
+  
+  - <img src="./images/newborn_wrapped.webp" alt="Baby wrapped in mother's arms" width="150px">
   - In the earliest stages of life, a child is deeply connected to the mother, almost indistinguishable from her.
   - The child has no filters and is entirely at one with the world around them.
   - It is crucial to protect the child from the overwhelming bombardment of sensory experiences in the world.
+<hr>
 
-- **Awakening to Selfhood:**
+#### 6 months: Raising head  
   - The child gradually awakens to an experience of their own selfhood.
   - The first conscious experience of self occurs in the body as the child starts to move their head intentionally, sit up, crawl, and eventually walk by the end of the first year.
+    - <img src="./images/holding_head.webp" alt="Baby raising head" width="150px">
   - This development signifies a necessary separation from the mother, enabling the child to begin exploring the world independently.
+
+<hr>
+
+####  1 year: Standing upright  
   - The ability to stand upright by the end of the first year is considered an essential human capacity.
+      - <img src="./images/standing.webp" alt="Baby standing upright" width="150px">
 
-- **Development of Physical and Cognitive Capacities:**
-  - Over the second year, the child continues to develop essential physical capacities such as running, grasping, and other forms of sensory-motor skills.
+<hr>
+
+#### 1 - 2 years: Development of Physical and Cognitive Capacities   
+
+  - Over the second year, the child continues to develop essential physical capacities such as running,climbing, grasping, and other forms of sensory-motor skills.
+    -  <img src="./images/walking_running.webp" alt="child walking" width="150px"/> 
+    -   <img src="./images/climbing.webp" alt="child climbing" width="150px"/>
+  
+   
   - These developments culminate in the emergence of speech by the end of the second year, marking another fundamental human ability.
+    -  <img src="./images/talking.webp" alt="child talking" width="150px" />
 
-- **Emergence of the "I":**
+<hr>
+
+#### 3 years: Emergence of the "I": 
   - In the third year, the child begins to use the word "I," signifying the development of a sense of self as a distinct being separate from others.
   - This stage is often accompanied by the use of the word "No," expressing the child's newfound understanding of their own will and individuality.
+    - <img src="./images/saying_no.webp" alt="child talking" width="150px" />
   - Thinking also begins to develop, and the foundations of memory start to form during this year.
+    - Early memory formation relates to place or location, followed by rhythmic memory, and finally, image memory.
+    - Modern lifestyles can challenge these natural developmental processes, potentially impairing the child’s capacity for memory and imagination.
 
-- **Development of Memory:**
-  - Early memory formation relates to place or location, followed by rhythmic memory, and finally, image memory.
-  - Modern lifestyles can challenge these natural developmental processes, potentially impairing the child’s capacity for memory and imagination.
-
-- **Importance of the First Three Years:**
+#### Importance of the First Three Years 
   - The first three years are crucial for laying the foundation for the entire lifespan.
   - During these years, the child is developing their 12 senses, which are gateways between the inner self and the outer world.
   - Unstructured play is essential for sensory-motor integration, allowing children to explore the sensory world and master their physical relationship with it.
 
-- **Role of Attention:**
-  - The senses are the medium through which we experience the outside world and bring it into our inner self.
-  - This process requires the ability to focus attention on a task or object.
-  - By the age of 7, the child has typically gone through the stages of standing, speaking, and thinking, which are foundational for later development.
-  - The etheric or life body works to form the organs and integrate inherited physical traits, so the child can fully make their physical body their own.
+### Completion of the First Phase: 0-7 years 
+  - The first major phase of development concludes around the age of 7, marked by the change of teeth.
+  - <img src="./images/teeth.webp" alt="child talking" width="150px" />
+  - This physical milestone is seen as an outer indicator of the completion of this stage.
 
 
-## Second Phase of Development (Age 7 to 14)
+<hr>
 
-### Overview
-- At around 7 years of age, the etheric body becomes free to engage in learning and memory development. Before this age, the focus is on the etheric body’s role in developing the physical organs and fully incarnating into the physical body.
-- Starting formal education too early may interrupt this process, potentially impacting the child's health and development.
+## Transition to the Second Phase of Development (Age 7 to 14)##
+
+
+### A note on Attention and the Etheric Body 
+
+  - At around 7 years of age, the etheric body, which was previously focused on the physical growth of the child, becomes available to support learning and memory. This transition marks the beginning of the child’s readiness for more structured education.
+  - During this stage, the child’s senses, which have been developed through foundational experiences like standing, speaking, and thinking, now play a critical role in engaging with and understanding the outside world.
+  - As the etheric body shifts its focus, the child’s ability to concentrate and sustain attention on tasks begins to develop. This growing capacity for focused attention is critical for engaging with educational activities and understanding the world around them.
+  - Prior to this stage, starting formal education too early might disrupt the natural maturation of the etheric body, potentially impacting both the child’s health and their ability to fully integrate their physical and cognitive capacities.
+
+
 
 ### Primary School Years (Ages 7 to 9)
 - By the time a child enters primary school, they have undergone significant development. The etheric body is now ready to support learning and memory.
 - The 7-year-old child is strongly interested in learning and remains immersed in a sense of wonder about the world. However, unlike the first seven years where learning occurs through imitation, the primary school years focus on language, stories, and the use of imagination through words.
 - Children at this stage look to adults for stories and kind words of recognition. Teachers should be authentic in their communication, using specific and meaningful praise rather than generic compliments.
 
-### Development of Memory
+### Development of Memory 
 - Between ages 7 and 9, children's memory develops to a more continuous form. Rhythmic memory, supported through activities like learning long poems, plays a crucial role in this development.
 - Rhythmic exercises also support the etheric body, helping to anchor the learning process.
 
