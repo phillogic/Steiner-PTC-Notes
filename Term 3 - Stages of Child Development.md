@@ -137,4 +137,4 @@ Term 3 - July 24: Notes from the  Lecture by Bernadette White
 - Steiner, R. (1996). *The Education of the Child and Early Lectures on Education*. Anthroposophic Press.
 - Steiner, R. (2004). *Human Values in Education*. Rudolf Steiner Press.
 - Glöckler, M. (2009). *A Guide to Child Health: A Holistic Approach to Raising Healthy Children*. Floris Books.
-- all images courtesty of Open AI.
+- all images courtesty of OpenAI.
