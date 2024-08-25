@@ -57,18 +57,21 @@ Take this opportunity to explore other Child developmental stages resources, in 
     <img src="./images/teeth.webp" alt="teeth" width="90px" />
       <ul>
         <li>Change of teeth</li>
+        <li>Interest in Stories </li>
          <li>Memory develops enough to have a more continuous form.</li>
          <li>9 year old crisis(loss of wonder and openess)
          </li>
-<li>approach Pubescence (11-14)  </li>
+        <li>approach Pubescence (11-14)  </li>
       </ul>
     </td>
     <td>
     <ul>
         <li>Puberty</li>
-        <li>Indepdence</li>
+        <li>Desire for indepdence</li>
         <li>Integration of the "I" into the other bodies
         </li>
+        <li>Abstract thinking </li>
+        <li>Growing Awareness of Self in relation to the world </li>
       </ul>
       </td>
   </tr>
@@ -85,18 +88,31 @@ Take this opportunity to explore other Child developmental stages resources, in 
         <li> Being immersed in goodness.</li>
       </ul>
     </td>
-    <td>Prior to this stage, starting formal education too early might disrupt the natural maturation of the etheric body, potentially impacting both the child’s health and their ability to fully integrate their physical and cognitive capacities.</td>
-    <td>By the time a child enters primary school, they have undergone significant development. The etheric body is now ready to support learning and memory.
-The 7-year-old child is strongly interested in learning and remains immersed in a sense of wonder about the world. However, unlike the first seven years where learning occurs through imitation, the primary school years focus on language, stories, and the use of imagination through words.
-Children at this stage look to adults for stories and kind words of recognition. Teachers should be authentic in their communication, using specific and meaningful praise rather than generic compliments.
-Between ages 7 and 9, children's memory develops to a more continuous form. Rhythmic memory, supported through activities like learning long poems, plays a crucial role in this development.
-Rhythmic exercises also support the etheric body, helping to anchor the learning process.
+    <td>Prior to this stage, starting formal education too early might disrupt the natural maturation of the etheric body, potentially impacting both the child’s health and their ability to fully integrate their physical and cognitive capacities.
+    </td>
+    <td> 
+    <ul>
+<li> To be immersed in imagination, beauty and wonder. </li>
+<li> Develop their own moral understandning through language,stories and poems. </li>
+<li> Opporunity to express their own creativity. </li>
+<li> Need emotional support from adults </li>
+<li> Continuing of deepning their sense of rythm.</li>
+
+</ul>
 </td>
-    <td></td>
+    <td>
+    <li>Support for self-discovery so they can find their place in the world and fullfull their life path.
+    </li>
+    <li>Support for developing indepdences in thinking, feeling and willing.
+    </li>
+<li>
+     guidance for ethical and moral reasoning, opportunities for real-life application of knowledge. 
+    </li>
+    </td>
   </tr>
   <tr>
     <th align="left">Educational Approaches:</th>
-    <td>
+    <td colspan="2">
     <ul>
     <li>
     Play based learning in a sensory-rich enviorments such as being being outside in nature
@@ -106,11 +122,22 @@ Rhythmic exercises also support the etheric body, helping to anchor the learning
     </li>
     </ul>
     </td>
-     <td>
-     Child is ready for more structured education.
+    <td > <ul>
+    <li> Child is ready for more structured education now</li>
+    <li> Lots of Storytelling that allow them to exerpience the breadth of human moral qualities </li>
+    <li> Artistic activies such as drawing, painting, knitting, weaving, carving wood</li>
+    <li> Focus on playing games together as way for social development </li>
+    <li> Showing appreciate and giving feedback via concerte examples of their behaviour </li>
+    </ul>
     </td>
-    <td >4</td>
-    <td >5</td>
+    <td>
+     <ul>
+     <li>Teaching while respectingthe emrgent indepdence of the adolescent i.e not teaching by authority but by inspiring rationality and the quest for truth. 
+     </li>
+    <li> Higher academic learning </li>
+    <li> internships & mentorships  where they get to apply their skills in real life
+    </li>
+    </td>
   </tr>
 </table>
 
@@ -119,6 +146,5 @@ Rhythmic exercises also support the etheric body, helping to anchor the learning
 ## References
 
 - Steiner, R. (1996). *The Education of the Child and Early Lectures on Education*. Anthroposophic Press.
-- Steiner, R. (2004). *Human Values in Education*. Rudolf Steiner Press.
-- Glöckler, M. (2009). *A Guide to Child Health: A Holistic Approach to Raising Healthy Children*. Floris Books.
+- Bernadette White’s lecture.
 - all images courtesty of OpenAI.
