@@ -9,6 +9,9 @@ Term 3 - July 24: Notes from the  Lecture by Bernadette White
   - Focus is on the holistic development of the child.
   - The goal is to understand child development to recognize and support the new faculties that emerge as the child grows.
   - The curriculum is a response to the child's developmental needs rather than a fixed set of topics.
+  - Steiner quote from [TheEducationOfTheChild] `The day will come when teachers will
+not be tested for knowledge, or even pedagogical principles,
+but for what they are as human beings.`
 
 ## Child Development and Incarnation
 
